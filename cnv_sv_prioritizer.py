@@ -39,10 +39,10 @@ PATIENT_HPO_TERMS = [
 ]
 
 # Input file (your annotated SV file)
-INPUT_FILE = "/Volumes/GEN_GR/PIgroup Alexander Hoischen/Quentin/ETZ050.sv.segments.txt"
+INPUT_FILE = "path/to/your/file"
 
 # Output file (will be created automatically)
-OUTPUT_FILE = "/Volumes/GEN_GR/PIgroup Alexander Hoischen/Quentin/ETZ050_SV_PRIORITIZED.tsv"
+OUTPUT_FILE = "path/to/your/file"
 
 # =============================================================================
 # FILTERING PARAMETERS - Adjust according to your needs
